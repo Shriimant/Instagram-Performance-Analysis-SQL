@@ -210,7 +210,7 @@ Used the `ROW_NUMBER()` window function to identify the top three follower acqui
 - June 30, 2023: 8,804 followers
 - June 3, 2023: 8,802 followers
 
-![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL-Q9...png)
 
 ---
 
