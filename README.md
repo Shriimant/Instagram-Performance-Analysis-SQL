@@ -99,6 +99,8 @@ Identified the number of unique Instagram content formats.
 
 **Result:** 4 unique post types.
 
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+
 ---
 
 ### Q2. Impression Analysis
