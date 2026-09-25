@@ -109,7 +109,7 @@ Calculated the highest and lowest impressions recorded for each post type.
 
 **Key Finding:** IG Reel recorded the highest single-post impressions of 339,708.
 
-![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL%20-%20Q2.png)
 
 
 ---
