@@ -224,6 +224,7 @@ sql
 CALL get_total_shares_by_week('W17');
 
 
+
 ![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL-Q10.png)
 
 ---
