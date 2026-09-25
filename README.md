@@ -167,7 +167,7 @@ Analyzed the number of unique content categories used each month.
 
 Content variety increased from 3 categories in January to 6 categories in May.
 
-![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL%20-%20Q6.png)
 
 ---
 
