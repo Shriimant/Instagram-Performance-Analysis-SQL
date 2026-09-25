@@ -125,7 +125,7 @@ Identified Instagram posts published on weekends during March and April.
 
 The resulting records were exported to CSV for further analysis.
 
-![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL%20-%20Q3.png)
 
 ---
 
