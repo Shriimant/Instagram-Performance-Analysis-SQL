@@ -192,10 +192,56 @@ Used the `ROW_NUMBER()` window function to identify the top three follower acqui
 Created a parameterized stored procedure to calculate total shares by post type for a selected week.
 
 Example:
-```sql
+
+sql
 CALL get_total_shares_by_week('W17');
 
 ---
+
+### 📊 Key Insights
+
+- IG Reels contributed 61.63% of total reach.
+- May and June represented the strongest account-growth period.
+- Other Gadgets and Tech Tips generated strong engagement in July.
+- Content category variety increased during the analysis period.
+- Several of the largest daily follower gains occurred during May and June.
+- Weekly performance can be monitored efficiently using the stored procedure.
+
+---
+
+### 💡 Recommendations
+
+- Prioritize Reel-based content when maximizing reach is the objective.
+- Continue experimenting with Tech Tips and Other Gadgets content.
+- Investigate the content and campaigns associated with May-June growth.
+- Use weekly SQL reporting to monitor performance.
+- Review the Carousel strategy based on its low contribution to total reach.
+
+---
+
+
+### 🎓 Key Learning
+
+This project helped me strengthen my practical SQL skills by working with
+relational tables, aggregations, CTEs, window functions and stored procedures.
+
+More importantly, it helped me understand how SQL can be used to transform
+raw data into meaningful business insights and actionable recommendations.
+
+
+---
+
+### 👤 Author
+
+Shrimant Moghe
+
+Data Analyst | SQL | Power BI | Excel | Data Analytics
+
+
+---
+
+
+
 
 
 
