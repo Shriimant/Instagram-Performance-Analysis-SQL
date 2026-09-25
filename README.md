@@ -179,6 +179,7 @@ Calculated total reach and percentage contribution by post type.
 
 IG Reels contributed 61.63% of total reach.
 
+
 ![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL%20-%20Q7.png)
 
 ---
@@ -193,6 +194,7 @@ Analyzed comments and saves by post category across Q1, Q2 and Q3.
 - Tech Tips generated 2,201 comments and 17,649 saves in Q2.
 - Q2 showed particularly strong engagement across the reported categories.
 - Saves were considerably higher than comments.
+  
 
 ![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL%20-%20Q8...png)
 
