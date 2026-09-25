@@ -109,7 +109,11 @@ Calculated the highest and lowest impressions recorded for each post type.
 
 **Key Finding:** IG Reel recorded the highest single-post impressions of 339,708.
 
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+
+
 ---
+
 
 ### Q3. Weekend Posts
 
@@ -118,6 +122,8 @@ Identified Instagram posts published on weekends during March and April.
 **Result:** 17 weekend posts were identified.
 
 The resulting records were exported to CSV for further analysis.
+
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
 
 ---
 
@@ -129,6 +135,10 @@ Calculated monthly profile visits and new followers.
 
 - May recorded the highest profile visits: 106,571.
 - June recorded the highest new followers: 76,942.
+
+
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+
 
 ---
 
@@ -142,6 +152,9 @@ Calculated total likes by post category for July.
 - Tech Tips: 20,296 likes
 - Mobile: 16,338 likes
 
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+
+
 ---
 
 ### Q6. Content Category Diversity
@@ -152,6 +165,8 @@ Analyzed the number of unique content categories used each month.
 
 Content variety increased from 3 categories in January to 6 categories in May.
 
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+
 ---
 
 ### Q7. Reach Analysis
@@ -161,6 +176,8 @@ Calculated total reach and percentage contribution by post type.
 **Key Finding:**
 
 IG Reels contributed 61.63% of total reach.
+
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
 
 ---
 
@@ -175,6 +192,8 @@ Analyzed comments and saves by post category across Q1, Q2 and Q3.
 - Q2 showed particularly strong engagement across the reported categories.
 - Saves were considerably higher than comments.
 
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+
 ---
 
 ### Q9. Follower Growth Analysis
@@ -187,6 +206,8 @@ Used the `ROW_NUMBER()` window function to identify the top three follower acqui
 - June 30, 2023: 8,804 followers
 - June 3, 2023: 8,802 followers
 
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
+
 ---
 
 ### Q10. Stored Procedure
@@ -197,6 +218,9 @@ Example:
 
 sql
 CALL get_total_shares_by_week('W17');
+
+
+![image alt](https://github.com/Shriimant/Power-BI-Business-Insights-360/blob/3247262274e83ecd55f6ffe76b5747ebb3053287/Project_Screenshot2_updated.png)
 
 ---
 
