@@ -99,6 +99,7 @@ Identified the number of unique Instagram content formats.
 
 **Result:** 4 unique post types.
 
+
 ![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL%20-%20Q1.png)
 
 ---
@@ -108,6 +109,7 @@ Identified the number of unique Instagram content formats.
 Calculated the highest and lowest impressions recorded for each post type.
 
 **Key Finding:** IG Reel recorded the highest single-post impressions of 339,708.
+
 
 ![image alt](https://github.com/Shriimant/Instagram-Performance-Analysis-SQL/blob/main/SQL%20-%20Q2.png)
 
