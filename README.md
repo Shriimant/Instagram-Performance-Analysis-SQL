@@ -192,6 +192,14 @@ Used the `ROW_NUMBER()` window function to identify the top three follower acqui
 Created a parameterized stored procedure to calculate total shares by post type for a selected week.
 
 Example:
-
 ```sql
 CALL get_total_shares_by_week('W17');
+
+
+
+
+
+
+
+
+
